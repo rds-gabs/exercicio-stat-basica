@@ -4,3 +4,7 @@ mean(y)
 
 x <- 20*2 + y
 mean (x)
+
+y <- 10
+x <- 20*2 + y
+sum(x)
